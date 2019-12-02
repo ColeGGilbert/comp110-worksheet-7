@@ -1,2 +1,2 @@
-# comp110-worksheet-7
-Base repository for COMP110 worksheet 7
+# Comp110 Worksheet 7
+All assigned work completed by Cole Gilbert
